@@ -3,6 +3,7 @@ Technology for backend:
 * Use java 26.
 * Use h2 for relational databse
 * Use JPA ORM.+
+* Gradle
 
 Technology for front-end
 * Angular 21
