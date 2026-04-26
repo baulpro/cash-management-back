@@ -1,6 +1,6 @@
 Technology for backend:
 * Java spring boot.
-* Use java 24.
+* Use java 26.
 * Use h2 for relational databse
 * Use JPA ORM.+
 
