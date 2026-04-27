@@ -13,7 +13,6 @@ import com.management.app.cash_management_back.service.report.ReportGenerator;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.util.Base64;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;

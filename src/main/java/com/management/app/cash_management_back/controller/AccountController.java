@@ -6,7 +6,6 @@ import com.management.app.cash_management_back.dto.request.AccountRequestDTO;
 import com.management.app.cash_management_back.dto.response.AccountResponseDTO;
 import com.management.app.cash_management_back.enums.AccountType;
 import com.management.app.cash_management_back.service.AccountService;
-import jakarta.validation.Valid;
 import java.util.UUID;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
