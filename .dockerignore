@@ -1,0 +1,11 @@
+.gradle
+build
+.idea
+*.iml
+.git
+.gitignore
+.gitattributes
+gradlew.bat
+HELP.md
+*.md
+data

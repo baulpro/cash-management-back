@@ -1,3 +1,15 @@
+## H2 Database Console
+
+To access the H2 console, open your browser and go to:
+http://localhost:8081/h2-console
+
+Connection details:
+- **JDBC URL:** `jdbc:h2:file:./data/bankingdb`
+- **User:** `sa`
+- **Password:** *(leave empty)*
+
+---
+
 Technology for backend:
 * Java spring boot.
 * Use java 26.

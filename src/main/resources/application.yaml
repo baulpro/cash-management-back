@@ -15,5 +15,8 @@ spring:
     properties.hibernate.format_sql: true
 
   h2:
-    console.enabled: true
-    console.path: /h2-console
+    console:
+      enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: true
